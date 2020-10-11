@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int m[100][100];  //suka
+int m[100][100];
 int c = 0;
 int third(pair <int, int> a);
 int sum = 0;
